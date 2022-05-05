@@ -13,6 +13,7 @@
 		87DC23AA281CA57400E473F7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 87DC23A8281CA57400E473F7 /* Main.storyboard */; };
 		87DC23AC281CA57500E473F7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 87DC23AB281CA57500E473F7 /* Assets.xcassets */; };
 		87DC23AF281CA57500E473F7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 87DC23AD281CA57500E473F7 /* LaunchScreen.storyboard */; };
+		87DC23B7281CA84F00E473F7 /* PageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87DC23B6281CA84F00E473F7 /* PageViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		87DC23AB281CA57500E473F7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		87DC23AE281CA57500E473F7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		87DC23B0281CA57500E473F7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		87DC23B6281CA84F00E473F7 /* PageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				87DC23AB281CA57500E473F7 /* Assets.xcassets */,
 				87DC23AD281CA57500E473F7 /* LaunchScreen.storyboard */,
 				87DC23B0281CA57500E473F7 /* Info.plist */,
+				87DC23B6281CA84F00E473F7 /* PageViewController.swift */,
 			);
 			path = "MiniApp50-PageControll";
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				87DC23A7281CA57400E473F7 /* ViewController.swift in Sources */,
 				87DC23A3281CA57400E473F7 /* AppDelegate.swift in Sources */,
 				87DC23A5281CA57400E473F7 /* SceneDelegate.swift in Sources */,
+				87DC23B7281CA84F00E473F7 /* PageViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
